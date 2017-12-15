@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\TFS\HP\ES_AMERICAS_BR_APPS_MSFT_BMG_Garantias\POC_Calculadora\POC_CalculadoraTests1\bin\Debug\POC_CalculadoraTests1.dll" total="6" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-10-24" time="15:54:10">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.8669" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.2\bin" machine-name="LIMFERNA3" user="limferna" user-domain="AMERICAS" />
+  <culture-info current-culture="pt-BR" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\TFS\HP\ES_AMERICAS_BR_APPS_MSFT_BMG_Garantias\POC_Calculadora\POC_CalculadoraTests1\bin\Debug\POC_CalculadoraTests1.dll" executed="True" result="Failure" success="False" time="128.059" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="POC_CalculadoraTests1" executed="True" result="Failure" success="False" time="128.005" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="CalculadoraTests" executed="True" result="Failure" success="False" time="128.001" asserts="0">
+            <results>
+              <test-case name="POC_CalculadoraTests1.CalculadoraTests.AdicaoTest" executed="True" result="Success" success="True" time="0.041" asserts="0" />
+              <test-case name="POC_CalculadoraTests1.CalculadoraTests.CalcularTest" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+              <test-case name="POC_CalculadoraTests1.CalculadoraTests.DividirTest" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="POC_CalculadoraTests1.CalculadoraTests.MultiplicacaoTest" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="POC_CalculadoraTests1.CalculadoraTests.SubtracaoTest" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="POC_CalculadoraTests1.CalculadoraTests.TesteSelenium" executed="True" result="Error" success="False" time="127.785" asserts="0">
+                <failure>
+                  <message><![CDATA[OpenQA.Selenium.NoSuchWindowException : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 10.0 x86_64)]]></message>
+                  <stack-trace><![CDATA[at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+at POC_CalculadoraTests1.CalculadoraTests.TesteSelenium() in C:\TFS\HP\ES_AMERICAS_BR_APPS_MSFT_BMG_Garantias\POC_Calculadora\POC_CalculadoraTests1\CalculadoraTests.cs:line 88
+]]></stack-trace>
+                </failure>
+              </test-case>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

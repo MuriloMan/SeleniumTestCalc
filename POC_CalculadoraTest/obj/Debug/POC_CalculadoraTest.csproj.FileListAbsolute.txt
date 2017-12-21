@@ -1,0 +1,17 @@
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\obj\Debug\POC_CalculadoraTest.csprojResolveAssemblyReference.cache
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\obj\Debug\POC_CalculadoraTest.csproj.CoreCompileInputs.cache
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\bin\Debug\POC_CalculadoraTest.dll
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\bin\Debug\POC_CalculadoraTest.pdb
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\bin\Debug\WebDriver.dll
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\bin\Debug\WebDriver.Support.dll
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\bin\Debug\WebDriver.xml
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\bin\Debug\WebDriver.Support.xml
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\obj\Debug\POC_CalculadoraTest.dll
+C:\Users\murilo.manzoli\Desktop\Selenium\SeleniumTestCalc\POC_CalculadoraTest\obj\Debug\POC_CalculadoraTest.pdb

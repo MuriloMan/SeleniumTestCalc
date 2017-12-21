@@ -4,6 +4,10 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using POC_Calculadora;
 using System.Configuration;
+using OpenQA.Selenium.Interactions;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace POC_CalculadoraTests1
 {
@@ -18,6 +22,7 @@ namespace POC_CalculadoraTests1
         public void SyncDriver()
         {
             ChromeDriver = new ChromeDriver(@"dependencies");
+            ChromeDriver.Navigate().GoToUrl("http://www.google.com");
             ChromeDriver.Manage().Window.Maximize();
             //ChromeDriver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(20.0);
         }
@@ -32,7 +37,7 @@ namespace POC_CalculadoraTests1
         [TestMethod]
         public void AdicaoTest()
         {
-            ChromeDriver.Navigate().GoToUrl("google.com");
+            ChromeDriver.Navigate().GoToUrl("http://www.google.com");
             IWebElement LinkTest = ChromeDriver.FindElement(By.CssSelector("asd"));
 
             oCalculadora.Numero1 = oRandomico.NextDouble();

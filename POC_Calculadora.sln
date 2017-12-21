@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC_Calculadora", "POC_Calculadora\POC_Calculadora.csproj", "{41682B6C-609E-4518-8113-B075C9BD1A54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC_CalculadoraTests1", "POC_CalculadoraTests1\POC_CalculadoraTests1.csproj", "{454D0238-8B91-477C-BD81-47C5883D50D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC_CalculadoraTest", "POC_CalculadoraTest\POC_CalculadoraTest.csproj", "{B1E46566-B38C-440B-9087-FBA203C732B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,24 +17,15 @@ Global
 		{41682B6C-609E-4518-8113-B075C9BD1A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41682B6C-609E-4518-8113-B075C9BD1A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41682B6C-609E-4518-8113-B075C9BD1A54}.Release|Any CPU.Build.0 = Release|Any CPU
-		{454D0238-8B91-477C-BD81-47C5883D50D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{454D0238-8B91-477C-BD81-47C5883D50D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{454D0238-8B91-477C-BD81-47C5883D50D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{454D0238-8B91-477C-BD81-47C5883D50D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E46566-B38C-440B-9087-FBA203C732B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E46566-B38C-440B-9087-FBA203C732B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E46566-B38C-440B-9087-FBA203C732B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E46566-B38C-440B-9087-FBA203C732B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://tfspro.austin.hpecorp.net/tfs/tfs01
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = POC_Calculadora\\POC_Calculadora.csproj
-		SccProjectName1 = POC_Calculadora
-		SccLocalPath1 = POC_Calculadora
-		SccProjectUniqueName2 = POC_CalculadoraTests1\\POC_CalculadoraTests1.csproj
-		SccProjectName2 = POC_CalculadoraTests1
-		SccLocalPath2 = POC_CalculadoraTests1
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {274C4744-D75F-4F73-A55A-8BCE7ECB8E5B}
 	EndGlobalSection
 EndGlobal

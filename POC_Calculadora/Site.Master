@@ -78,7 +78,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - Hewlett Packard Enteprise</p>
+                <p>&copy; <%: DateTime.Now.Year %> - Selenium Test</p>
             </footer>
         </div>
     </form>
